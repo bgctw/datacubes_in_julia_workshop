@@ -2,3 +2,5 @@
 /_site/
 _freeze/
 examples/data/*.zarr
+tmp/*
+
